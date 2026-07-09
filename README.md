@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 - 💻 Estudando programação.
-- 🐍 Aprendendo Python.
+- 🐍 Aprendendo Python, Html, CSS, Java, JavaScript e C#.
 - 🌎 Brasil.
 - ⚽ Cr7 é o meu jogador favorito.
 
