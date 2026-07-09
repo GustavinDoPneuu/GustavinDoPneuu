@@ -3,7 +3,7 @@
 <p align="center">
 </p>
 
-<h3 align="center">⚽ Fã Cr7 e apaixonado por tecnologia.</h3>
+<h3 align="center">⚽ Fã do Cr7 e apaixonado por tecnologia.</h3>
 <p align="center"> <img src="https://i.gifer.com/1k6o.gif"/> 
 </p>
 
