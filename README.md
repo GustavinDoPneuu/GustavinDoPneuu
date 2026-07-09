@@ -4,7 +4,7 @@
   <img src="https://tenor.com/pt-BR/view/cr7-cristiano-ronaldo-cristiano-ronaldo-siu-gif-13958318114598563018)" width="500">
 </p>
 
-<h3 align="center">⚽ Fã do Neymar Jr. e apaixonado por tecnologia.</h3>
+<h3 align="center">⚽ Fã Cr7 e apaixonado por tecnologia.</h3>
 
 ---
 
@@ -12,7 +12,7 @@
 - 💻 Estudando programação.
 - 🐍 Aprendendo Python.
 - 🌎 Brasil.
-- ⚽ Neymar é o meu jogador favorito.
+- ⚽ Cr7 é o meu jogador favorito.
 
 ---
 
@@ -26,10 +26,10 @@
 
 ## 🌟 Frase
 
-> "O sucesso acontece quando a preparação encontra a oportunidade."
+> " NO PAIN, NO GAIN..."
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" alt="Visualizações">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=black" alt="Visualizações">
 </p>
