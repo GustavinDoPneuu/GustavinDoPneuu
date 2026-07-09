@@ -1,7 +1,7 @@
 ## <h1 align="center">👋 Olá, eu sou Gustavo!!</h1>
 
 <p align="center">
-  <img src="" width="500">
+  <img src="https://i.gifer.com/1k6o.gif"/>
 </p>
 
 <h3 align="center">⚽ Fã Cr7 e apaixonado por tecnologia.</h3>
